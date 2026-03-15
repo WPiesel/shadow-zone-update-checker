@@ -1,0 +1,1 @@
+# shadow-zone-update-checker
