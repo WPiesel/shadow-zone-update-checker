@@ -1,5 +1,7 @@
 Changes
 
-- Deleted TerraBlender
-- Deleted AeroBlender
-- Deleted DeepAether
+- changed MPUC config
+- changed Simple Discord RPC config
+- changed Better Compatibility Checker config
+- deleted menu modpack image for some time
+- changed modpack icon
