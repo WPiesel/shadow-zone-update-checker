@@ -22,7 +22,6 @@ Config changes
 Server changes
 
 - created serverpack
-- changed BCC config
 - changed Simple Voice Chat config
 - changed Better Compatibility Checker config
 - changed MOTD
