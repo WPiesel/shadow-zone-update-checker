@@ -1,0 +1,29 @@
+Mod changes
+
+- removed spark (by Iucko)
+- removed Panoramica [Forge] (by Keksuccino)
+- removed Nature's Compass (by Chaosyr)
+- removed Explorer's Compass (by Chaosyr)
+- removed Essential Mod (by SparkUniverse_)
+- added The God (by DregIr)
+- updated Not Enough Animations (by tr7zw)
+- updated GraveStone Mod (by henkelmax)
+- updated Simple Voice Chat (by henkelmax)
+- updated Xaero's Minimap (by xaero96)
+- updated Xaero's World Map (by xaero96)
+- updated Xaero's Minimap & World Map - Waystones Compatibility [Forge] (by ArcaneAlloy)
+
+
+Config changes
+
+- changed Modpack Update Checker config
+- changed Better Compatibility Checker config
+
+Server changes
+
+- created serverpack
+- changed BCC config
+- changed Simple Voice Chat config
+- changed Better Compatibility Checker config
+- changed MOTD
+- added server icon
