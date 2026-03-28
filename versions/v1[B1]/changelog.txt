@@ -1,1 +1,39 @@
+Mod changes
+
+- readded spark (by Iucko)
+- readded Nature's Compass (by Chaosyr)
+- readded Explorer's Compass (by Chaosyr)
+- added Friday the 13th: Jason Voorhees (by Voxla)
+- added Crash Assistant (by KostromDan)
+- added The Deep Void (by Sombrius)
+- updated CraterLib (by HypherionSA)
+- updated Not Enough Animations (by tr7zw)
+- updated Simple Discord RPC (by HypherionSA)
+- updated Simple Voice Chat (by henkelmax)
+
+
+Config changes
+
+- changed Modpack Update Checker config
+- changed Better Compatibility Checker config
+- changed Fancy Menu settings
+- changed Simple Discord RPC config
+- added changelog icon
+- limited Explorer's Compass maxRadius to 500
+- limited Nature's Compass radiusModifier to 250
+- configured Crash Assistant
+
+Server changes
+
+- added spark (by Iucko)
+- added Nature's Compass (by Chaosyr)
+- added Explorer's Compass (by Chaosyr)
+- added Friday the 13th: Jason Voorhees (by Voxla)
+- added The Deep Void (by Sombrius)
+- updated CraterLib (by HypherionSA)
+- updated Simple Voice Chat (by henkelmax)
+- changed Better Compatibility Checker config
+- limited Explorer's Compass maxRadius to 500
+- limited Nature's Compass radiusModifier to 250
+
 
