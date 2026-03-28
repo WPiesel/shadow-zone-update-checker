@@ -23,4 +23,16 @@ Config changes
 - limited Nature's Compass radiusModifier to 250
 - configured Crash Assistant
 
+Server changes
+
+- added spark (by Iucko)
+- added Nature's Compass (by Chaosyr)
+- added Explorer's Compass (by Chaosyr)
+- added Friday the 13th: Jason Voorhees (by Voxla)
+- added The Deep Void (by Sombrius)
+- updated CraterLib (by HypherionSA)
+- updated Simple Voice Chat (by henkelmax)
+- changed Better Compatibility Checker config
+- limited Explorer's Compass maxRadius to 500
+- limited Nature's Compass radiusModifier to 250
 
