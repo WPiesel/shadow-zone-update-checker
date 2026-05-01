@@ -11,7 +11,7 @@ Mod changes
 - updated Not Enough Animations (by tr7zw)
 - updated Simple Voice Chat (by henkelmax)
 - updated CraterLib (by HypherionSA)
-- updated The Rake‎ (OVERHAUL) (by proddexx)
+- updated The Rake (OVERHAUL) (by proddexx)
 
 Fixes
 
