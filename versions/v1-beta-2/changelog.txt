@@ -1,0 +1,18 @@
+Mod changes
+
+- removed The God (by DregIr)
+- added Pretty Rain (by Project8gbDeRam)
+- added CreativeCore (by CreativeMD)
+- added AmbientSounds 6 (by CreativeMD)
+- updated Better Advancements (by way2muchnoise)
+- updated Chat Heads (by dzwdz)
+- updated Crash Assistant (by KostromDan)
+- updated End's Delight (by foggyhillside)
+- updated Not Enough Animations (by tr7zw)
+- updated Simple Voice Chat (by henkelmax)
+- updated CraterLib (by HypherionSA)
+- updated The Rake‎ (OVERHAUL) (by proddexx)
+
+Fixes
+
+- fixed random screen shaking by removing The God mod
