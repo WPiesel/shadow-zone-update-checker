@@ -22,6 +22,10 @@
     {
       "id": "v1-beta-1",
       "releasedAt": 1774713189000
+    },
+    {
+      "id": "v1-beta-2",
+      "releasedAt": 1777650566000
     }
   ]
 }
